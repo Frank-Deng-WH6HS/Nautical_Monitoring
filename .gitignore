@@ -17,11 +17,12 @@
 *.dat.enp
 *.hdr
 
-/Material
-/Modification
-/Output
-/Process
-/Source
-/Templete
-/Zotero_Record
-!/Zotero_Record/zotero.sqlite
+Material/
+Modification/
+Output/
+Process/
+Source/
+Templete/
+
+Zotero_Record/
+!Zotero_Record/zotero.sqlite
