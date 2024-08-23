@@ -1,5 +1,10 @@
 # 文献阅读笔记(2024-08-19至2024-08-25)
 
+<!--临时消息 (2024-08-20): 
+    本周需要先完成并提交一部分综述文本以供课题组讨论和修改, 文献阅读笔记临时采用 <非常规模式> 记录. 
+    期刊文章仅整理"绪论, 背景, 材料, 方法"相关章节. 
+-->
+
 ## 2024-08-19
 
 ### [基于 InSAR 的乌东德水电站库区边坡形变监测及分析](https://kns.cnki.net/kcms2/article/abstract?v=v-1aSqfKcSVvcLMEN45FALb89zJWQEtmK7mFIwbjgZAKDWiM975MAJPZxwA9TqKn9v7S4gZ2_u_acIaQA-HKN8J0yI6zf_JCtDmZnf57qBCQoTc7i8hOAYU-_vtNNehXCPlS1_LSMqSy5i6f99PvCWuZIzqVbsFd4rp7KA4EEKUfe-iRJ1fFKT9NyOa_n2mebBjwIsqQClZA7KeVialvq3SN4SxfRwNPdDTmrZaPhuKBnsmkhgtlKXVIIEqT3j-UHvJo1Nt7Utc=)[^RIVE202401020]
@@ -56,5 +61,15 @@
 * 通过InSAR数据获取**土壤含水量信息**, 用于**边坡沉降因素分析**; 利用InSAR的大范围监测能力, 弥补传统的**站点监测手段在空间分辨率上**的不足
 
 ***
+
+### [利用 2016—2020 年`Sentinel⁃1`数据监测与分析三峡库区树坪滑坡稳定性](https://kns.cnki.net/kcms2/article/abstract?v=01ddXewXOSBdM8Q5HxtdBryXdbFXjWGmNdtU0whlWhod-Q6tIup8w8M69nflZtBvymPY1z6JrC4eQEjAIba7GFvwt38EG06ZZnlezpK2TbWe2JdFsXGXjK5ZYlSAozLfbxt4NoFrnBt-OROpTdmtFID48UexTjqYx9amNG9wfB_ge50pqZ_9Ew==)[^WHCH202110014]
+
+[^WHCH202110014]: 朱同同, 史绪国, 周超, 等. 利用2016—2020年Sentinel-1数据监测与分析三峡库区树坪滑坡稳定性[J]. 武汉大学学报(信息科学版), 2021, 46(10): 1560-1568. DOI:10.13203/j.whugis20210247.
+
+#### 摘要
+
+由于不良地质条件和周期性蓄水等因素影响，中国三峡库区岸坡的稳定性问题一直备受关注。获取了覆盖树坪滑坡周围区域2016-03~2020-03的111景哨兵1号（`Sentinel⁃1`）数据，利用时间序列合成孔径雷达干涉测量技术（interferometric synthetic aperture radar，InSAR）对该数据集中的高相干点目标和分布式目标进行分析，获取实验区坡体变形。结果显示，实验区内有 7 处坡体处于活跃状态，最大变形速率达到70 mm/a。与树坪滑坡GPS形变观测值进行比较，验证了InSAR结果的有效性。通过对树坪和三门洞等典型滑坡的时序分析发现，库区水位和集中降雨是滑坡变形的主要影响因素，实验区内的治理工程有效减缓了变形趋势。与此同时，公路建设与植被耕种等人类活动引起了熊家岭村等出现地面沉降，需密切关注以防止出现安全隐患。所得结果证明时序InSAR技术可以有效识别和监测滑坡，为地质灾害风险普查以及防灾减灾治理成效评价提供技术支撑。
+
+
 
 ## 参考文献
